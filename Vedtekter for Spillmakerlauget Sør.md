@@ -6,7 +6,7 @@ Sist endret 23. april 2020.
 
 ### § 1 Formål 
 
-Spillmakerlauget Sør er en interesseorganisasjon for enkeltpersoner som driver med eller ønsker å drive med spillskaping i Sør-Norge. 
+Spillmakerlauget Sør er en interesseorganisasjon for enkeltpersoner som driver med eller ønsker å drive med spillskaping i Sør-Norge. I disse vedtektene er Sør-Norge definert som fylkene Agder og Vestfold og Telemark.
 
 Lauget har følgende formål: 
 - Å jobbe for en bærekraftig spillindustri i Sør-Norge 
