@@ -47,8 +47,6 @@ Styret skal ha minst tre medlemmer fra Spillmakerlauget Sør. Minst tre styremed
 
 Styret skal ha leder og nestleder.
 
-For å kunne stemme ved årsmøtet må man være fysisk til stede.
-
 Under første styremøte etter gjennomført årsmøtet skal styret selv fordele følgende roller innad: 
 -	Styreleder 
 -	Økonomiansvarlig 
