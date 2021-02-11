@@ -47,12 +47,6 @@ Styret skal ha minst tre medlemmer fra Spillmakerlauget Sør. Minst tre styremed
 
 Styret skal ha leder og nestleder.
 
-Alle stemmeberettigede medlemmer i spillmakerlauget Sør kan nominere seg selv eller andre stemmeberettigede medlemmer til styrevalg under årsmøtet. I tillegg kan stemmeberettigede medlemmer nominere ikke-medlemmer til posisjoner som eksternt styremedlem. De nominerte må være til stede under årsmøte, eller ha nominert seg selv, for å kunne velges inn i styret.
-
-Dersom antall nominerte, ordinære styremedlemmer er høyere enn 7, presenterer disse seg for årsmøtet før det holdes hemmelig avstemning der alminnelig flertall avgjør. Ved uavgjort avstemming kastes resultatet ut og det gjennomføres nye avstemninger inntil alminnelig flertall kan etableres.
-
-Dersom antall nominerte, eksterne styremedlemmer er høyere enn 2, presenterer disse seg for årsmøtet før det holdes hemmelig avstemning der alminnelig flertall avgjør. Ved uavgjort avstemming kastes resultatet ut og det gjennomføres nye avstemninger inntil alminnelig flertall kan etableres.
-
 For å kunne stemme ved årsmøtet må man være fysisk til stede.
 
 Under første styremøte etter gjennomført årsmøtet skal styret selv fordele følgende roller innad: 
