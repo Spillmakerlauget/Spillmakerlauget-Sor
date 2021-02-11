@@ -26,7 +26,7 @@ Medlemskap i Spillmakerlauget Sør krever innbetaling av medlemskontingent til S
 ## Årsmøtet
 
 ### § 4 Årsmøtet 
-Årsmøtet er Spillmakerlauget Sør sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle medlemmene til årsmøtet med minst to ukers varsel. Under årsmøtet kan alle medlemmer med tale- og forslagsrett delta og alle som har vært medlemmer i mer enn 3 måneder og som fremdeles er medlemmer har stemmerett. 
+Årsmøtet er Spillmakerlauget Sør sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle medlemmene til årsmøtet med minst to ukers varsel. Under årsmøtet kan alle medlemmer med tale- og forslagsrett delta, og alle som er medlemmer ved starten av årsmøtet, har stemmerett.
 
 Følgende saker skal alltid tas opp på årsmøtet: 
 1. Valg av møteleder og referent. 
