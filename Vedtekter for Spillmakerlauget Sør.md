@@ -64,7 +64,7 @@ Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig 
 Vedtektene er Spillmakerlauget Sør sitt øverste regelverk og kan kun endres ved 2/3 flertall på et årsmøte. Forslag til endring av vedtektene må være sendt styret senest en uke før et årsmøte. En vedtektsendring trer tidligst i kraft etter årsmøtet den vedtas på er hevet. 
 
 ### § 9 
-Alle vedtak i Spillmakerlauget Sør sine organer krever alminnelig flertall hvis ikke annet er spesifisert i vedtektene. Ved stemmelikhet i styret eller på årsmøtet avgjør leders stemme.
+Alle vedtak i Spillmakerlauget Sør sine organer krever alminnelig flertall hvis ikke annet er spesifisert i vedtektene. Ved stemmelikhet i styret eller på årsmøtet avgjør leders stemme. Nestleders stemme avgjør ved stemmelikhet hvis leder ikke er til stede.
 
 ### § 10
 
