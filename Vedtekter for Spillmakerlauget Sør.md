@@ -45,10 +45,9 @@ Utenfor årsmøtet er styret Spillmakerlauget Sør sitt øverste organ. Styret s
 
 Styret skal ha minst tre medlemmer fra Spillmakerlauget Sør. Minst tre styremedlemmer bør være aktive innen spillutvikling. Hvis det er minst tre lokale laugmedlemmer i styret, er styret oppfordret til å se etter en ekstern styremedlem (en per tre interne styremedlemmer). Eksempel på eksterne styremedlemmer er ikke-medlem og/eller folk som ikke aktivt arbeider med spill.
 
-Styret skal ha leder og nestleder.
+Styret skal ha leder og nestleder, og disse velges av årsmøtet.
 
 Under første styremøte etter gjennomført årsmøtet skal styret selv fordele følgende roller innad: 
--	Styreleder 
 -	Økonomiansvarlig 
 -	Sekretær
 
