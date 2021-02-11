@@ -54,7 +54,7 @@ Under første styremøte etter gjennomført årsmøtet skal styret selv fordele 
 Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rollene. Ved flere nominerte til en rolle holdes hemmelig valg der alminnelig flertall avgjør. Styret er pålagt å fylle disse rollene.
 
 ### § 7 Styrets ansvar og vedtaksdyktighet
-Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig når minst 2/3 av styrets medlemmer er tilstede. Styrets medlemmer er ansvarlig for foreningens økonomiske disposisjoner ihht norsk lov. Det er styrets leder og ett styremedlem i fellesskap som har tegningsrett. 
+Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig når minst 2/3 av styrets medlemmer er tilstede. Styrets medlemmer er ansvarlig for foreningens økonomiske disposisjoner ihht norsk lov. Styrets leder og nestleder har hver for seg både signaturrett og prokura. Dersom verken styreleder eller nestleder er tilgjengelige, kan styret i fellesskap tildele signaturrett til andre.
  
 ## Diverse
 
