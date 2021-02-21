@@ -24,6 +24,8 @@ Spillmakerlauget Sør er medlem av og følger vedtektene til Spillmakerlauget No
 
 ### § 3 Kontingent
 Medlemskap i Spillmakerlauget Sør krever innbetaling av medlemskontingent til Spillmakerlauget Norge hvert medlemsår. Medlemskontingenten og eventuelle rabatter for nyinnmeldte blir fastsatt av landsmøtet. Landsmøtet bestemmer også grunnsats som blir betalt ut til regionale laug av kontingenten. Spillmakerlauget Sør kan anmode om større andel av kontingenten ved behov.
+
+Om landsmøtet ikke definerer medlemskontigenten, bestemmer Spillmakerlauget Sør medlemskontigenten selv, men i utgangspunktet skal føringer fra Spillmakerlauget Norge gjelde.
  
 ## Årsmøtet
 
