@@ -53,6 +53,8 @@ Styret skal ha leder og nestleder, og disse velges av årsmøtet.
 
 Alle stemmeberettigede medlemmer i spillmakerlauget Sør kan nominere seg selv eller andre stemmeberettigede medlemmer til styrevalg under årsmøtet.
 
+For å kunne stemme ved årsmøtet må man være til stede fysisk eller digitalt. Styret plikter å sette opp et digitalt alternativ for medlemmer som ikke kan møte fysisk.
+
 Under første styremøte etter gjennomført årsmøte skal styret selv fordele følgende roller innad:
 -	Økonomiansvarlig
 -	Sekretær
