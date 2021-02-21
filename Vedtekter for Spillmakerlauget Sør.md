@@ -45,13 +45,13 @@ Det avholdes ekstraordinært årsmøte hvis styret eller minst 1/3 av medlemmene
 ## Styret
 
 ### § 6 Styresammensetning
-Utenfor årsmøtet er styret Spillmakerlauget Sør sitt øverste organ. Styret skal bestå av 4–8 styremedlemmer valgt inn av foreningens stemmeberettigede medlemmer (se §4) under et årsmøte. Innvalgte styremedlemmer kan sitte inntil 2 år før de må stille til gjenvalg. Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opp til totalt 8 styremedlemmer. Supplerte styremedlemmer sitter i styret frem til neste årsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
+Utenfor årsmøtet er styret Spillmakerlauget Sør sitt øverste organ. Styret skal bestå av 4–8 styremedlemmer valgt inn av foreningens stemmeberettigede medlemmer (se § 4) under et årsmøte. Innvalgte styremedlemmer kan sitte inntil 2 år før de må stille til gjenvalg. Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opp til totalt 8 styremedlemmer. Supplerte styremedlemmer sitter i styret frem til neste årsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
 
 Styret skal ha minst tre medlemmer fra Spillmakerlauget Sør. Minst tre styremedlemmer bør være aktive innen spillutvikling. Hvis det er minst tre lokale laugmedlemmer i styret, er styret oppfordret til å se etter en ekstern styremedlem (en per tre interne styremedlemmer). Eksempel på eksterne styremedlemmer er ikke-medlem og/eller folk som ikke aktivt arbeider med spill.
 
 Styret skal ha leder og nestleder, og disse velges av årsmøtet.
 
-Alle stemmeberettigede medlemmer i spillmakerlauget Sør kan nominere seg selv eller andre stemmeberettigede medlemmer til styrevalg under årsmøtet.
+Alle stemmeberettigede medlemmer i Spillmakerlauget Sør kan nominere seg selv eller andre stemmeberettigede medlemmer til styrevalg under årsmøtet.
 
 For å kunne stemme ved årsmøtet må man være til stede fysisk eller digitalt. Styret plikter å sette opp et digitalt alternativ for medlemmer som ikke kan møte fysisk.
 
@@ -59,7 +59,7 @@ Under første styremøte etter gjennomført årsmøte skal styret selv fordele f
 -	Økonomiansvarlig
 -	Sekretær
 
-Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rollene. Ved flere nominerte til en rolle holdes hemmelig valg der alminnelig flertall avgjør. Styret er pålagt å fylle disse rollene.
+Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rollene. Ved flere nominerte til en rolle, holdes hemmelig valg der alminnelig flertall avgjør. Styret er pålagt å fylle disse rollene.
 
 ### § 7 Styrets ansvar og vedtaksdyktighet
 Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig når minst 2/3 av styrets medlemmer er tilstede. Styrets medlemmer er ansvarlige for foreningens økonomiske disposisjoner ihht norsk lov. Styrets leder og nestleder har hver for seg både signaturrett og prokura. Dersom verken styreleder eller nestleder er tilgjengelige, kan styret i fellesskap tildele signaturrett og prokura til andre.
