@@ -1,6 +1,6 @@
 # Vedtekter for Spillmakerlauget Sør
 
-Sist endret 23. april 2020.
+Sist endret 17. februar 2021.
 
 ## Formål og medlemskap
 
