@@ -45,13 +45,15 @@ Det avholdes ekstraordinært årsmøte hvis styret eller minst 1/3 av medlemmene
 ## Styret
 
 ### § 6 Styresammensetning
-Utenfor årsmøtet er styret Spillmakerlauget Sør sitt øverste organ. Styret skal bestå av 4 - 8 styremedlemmer valgt inn av foreningens stemmeberettigede medlemmer (se §4) under et årsmøte. Innvalgte styremedlemmer kan sitte inntil 2 år før de må stille til gjenvalg. Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opp til totalt 8 styremedlemmer. Supplerte styremedlemmer sitter i styret frem til neste årsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
+Utenfor årsmøtet er styret Spillmakerlauget Sør sitt øverste organ. Styret skal bestå av 4–8 styremedlemmer valgt inn av foreningens stemmeberettigede medlemmer (se §4) under et årsmøte. Innvalgte styremedlemmer kan sitte inntil 2 år før de må stille til gjenvalg. Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opp til totalt 8 styremedlemmer. Supplerte styremedlemmer sitter i styret frem til neste årsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
 
 Styret skal ha minst tre medlemmer fra Spillmakerlauget Sør. Minst tre styremedlemmer bør være aktive innen spillutvikling. Hvis det er minst tre lokale laugmedlemmer i styret, er styret oppfordret til å se etter en ekstern styremedlem (en per tre interne styremedlemmer). Eksempel på eksterne styremedlemmer er ikke-medlem og/eller folk som ikke aktivt arbeider med spill.
 
 Styret skal ha leder og nestleder, og disse velges av årsmøtet.
 
-Under første styremøte etter gjennomført årsmøtet skal styret selv fordele følgende roller innad:
+Alle stemmeberettigede medlemmer i spillmakerlauget Sør kan nominere seg selv eller andre stemmeberettigede medlemmer til styrevalg under årsmøtet.
+
+Under første styremøte etter gjennomført årsmøte skal styret selv fordele følgende roller innad:
 -	Økonomiansvarlig
 -	Sekretær
 
