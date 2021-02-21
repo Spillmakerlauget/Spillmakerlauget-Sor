@@ -14,7 +14,7 @@ Lauget har følgende formål:
 - Å forbli en ideell og uavhengig organisasjon.
 - Å opprette og vedlikeholde felles fora for sine medlemmer og spillnæringen i regionen.
 
-Lauget baserer seg på frivillig engasjement, og er uavhengig av selskaper som medlemmer arbeider i, og selskaper som sponser lauget.
+Lauget baserer seg på frivillig engasjement, og er uavhengig av organisasjoner som medlemmer arbeider i og organisasjoner som sponser lauget.
 
 ### § 2 Medlemskap
 Medlemskap i Spillmakerlauget Sør er for alle individer som er interessert i spillutvikling og/eller driver med spillutvikling. Man regnes som medlem av Spillmakerlauget Sør når man har betalt medlemskontingenten. Styret kan og ved alminnelig flertall melde ut et medlem, men de plikter i så fall å melde skjellig grunn til det utmeldte medlemmet.
