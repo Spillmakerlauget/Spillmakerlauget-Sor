@@ -16,11 +16,11 @@ Lauget har følgende formål:
 
 Lauget baserer seg på frivillig engasjement, og er uavhengig av organisasjoner som medlemmer arbeider i og organisasjoner som sponser lauget.
 
+Spillmakerlauget Sør er medlem av og følger vedtektene til Spillmakerlauget Norge.
+
 ### § 2 Medlemskap
 Medlemskap i Spillmakerlauget Sør er for alle individer som er interessert i spillutvikling og/eller driver med spillutvikling. Man regnes som medlem av Spillmakerlauget Sør når man har betalt medlemskontingenten. Styret kan og ved alminnelig flertall melde ut et medlem, men de plikter i så fall å melde skjellig grunn til det utmeldte medlemmet.
 Medlemsår og regnskapsår skal følge kalenderåret.
-
-Spillmakerlauget Sør er medlem av og følger vedtektene til Spillmakerlauget Norge.
 
 ### § 3 Kontingent
 Medlemskap i Spillmakerlauget Sør krever innbetaling av medlemskontingent til Spillmakerlauget Norge hvert medlemsår. Medlemskontingenten og eventuelle rabatter for nyinnmeldte blir fastsatt av landsmøtet. Landsmøtet bestemmer også grunnsats som blir betalt ut til regionale laug av kontingenten. Spillmakerlauget Sør kan anmode om større andel av kontingenten ved behov.
