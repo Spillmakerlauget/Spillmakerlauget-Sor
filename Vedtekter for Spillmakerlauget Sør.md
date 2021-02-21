@@ -30,7 +30,7 @@ Om landsmøtet ikke definerer medlemskontigenten, bestemmer Spillmakerlauget Sø
 ## Årsmøtet
 
 ### § 4 Årsmøtet
-Årsmøtet er Spillmakerlauget Sør sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle medlemmene til årsmøtet med minst to ukers varsel. Under årsmøtet kan alle medlemmer med tale- og forslagsrett delta, og alle som er medlemmer ved starten av årsmøtet, har stemmerett.
+Årsmøtet er Spillmakerlauget Sør sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle medlemmene til årsmøtet med minst to ukers varsel. Under årsmøtet kan alle medlemmer med tale- og forslagsrett delta, og alle som er medlemmer ved starten av årsmøtet, har stemmerett. For å kunne stemme ved årsmøtet må man være til stede fysisk eller digitalt. Styret plikter å sette opp et digitalt alternativ for medlemmer som ikke kan møte fysisk.
 
 Følgende saker skal alltid tas opp på årsmøtet: 
 1. Valg av møteleder og referent.
@@ -52,8 +52,6 @@ Styret skal ha minst tre medlemmer fra Spillmakerlauget Sør. Minst tre styremed
 Styret skal ha leder og nestleder, og disse velges av årsmøtet.
 
 Alle stemmeberettigede medlemmer i spillmakerlauget Sør kan nominere seg selv eller andre stemmeberettigede medlemmer til styrevalg under årsmøtet.
-
-For å kunne stemme ved årsmøtet må man være til stede fysisk eller digitalt. Styret plikter å sette opp et digitalt alternativ for medlemmer som ikke kan møte fysisk.
 
 Under første styremøte etter gjennomført årsmøte skal styret selv fordele følgende roller innad:
 -	Økonomiansvarlig
