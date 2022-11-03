@@ -1,6 +1,6 @@
 # Vedtekter for Spillmakerlauget Sør
 
-Sist endret 17. februar 2021.
+Sist endret 19. oktober 2022.
 
 ## Formål og medlemskap
 
@@ -20,7 +20,8 @@ Spillmakerlauget Sør er medlem av og følger vedtektene til Spillmakerlauget No
 
 ### § 2 Medlemskap
 Medlemskap i Spillmakerlauget Sør er for alle individer som er interessert i spillutvikling og/eller driver med spillutvikling. Man regnes som medlem av Spillmakerlauget Sør når man har betalt medlemskontingenten. Styret kan og ved alminnelig flertall melde ut et medlem, men de plikter i så fall å melde skjellig grunn til det utmeldte medlemmet.
-Medlemsår og regnskapsår skal følge kalenderåret.
+Medlemsår gjelder fra dagen for innbetaling av kontingent til samme dato ett år senere. Det er også mulig med medlemshalvår. Regnskapsår skal følge kalenderåret.
+
 
 ### § 3 Kontingent
 Medlemskap i Spillmakerlauget Sør krever innbetaling av medlemskontingent til Spillmakerlauget Norge hvert medlemsår. Medlemskontingenten og eventuelle rabatter for nyinnmeldte blir fastsatt av landsmøtet. Landsmøtet bestemmer også grunnsats som blir betalt ut til regionale laug av kontingenten. Spillmakerlauget Sør kan anmode om større andel av kontingenten ved behov.
@@ -50,6 +51,8 @@ Utenfor årsmøtet er styret Spillmakerlauget Sør sitt øverste organ. Styret s
 Styret skal ha minst tre medlemmer fra Spillmakerlauget Sør. Minst tre styremedlemmer bør være aktive innen spillutvikling. Hvis det er minst tre lokale laugmedlemmer i styret, er styret oppfordret til å se etter en ekstern styremedlem (en per tre interne styremedlemmer). Eksempel på eksterne styremedlemmer er ikke-medlem og/eller folk som ikke aktivt arbeider med spill.
 
 Styret skal ha leder og nestleder, og disse velges av årsmøtet.
+Årsmøtet kan også velge en 2. nestleder, som har pliktene og rettighetene til 1. nestleder når sistnevnte ikke er til stede. 
+
 
 Alle stemmeberettigede medlemmer i Spillmakerlauget Sør kan nominere seg selv eller andre stemmeberettigede medlemmer til styrevalg under årsmøtet.
 
@@ -74,4 +77,13 @@ Alle vedtak i Spillmakerlauget Sør sine organer krever alminnelig flertall hvis
 
 ### § 10
 
-Spillmakerlauget Sør kan bare oppløses med 2/3 flertall på et ordinært årsmøte og et påfølgende ekstraordinært årsmøte hvor oppløsning er eneste sak som skal behandles. Ved oppløsning bestemmer årsmøtet fordelingen av Spillmakerlauget Sør sine midler.
+Spillmakerlauget Sør kan bare oppløses med 2/3 flertall på et ordinært årsmøte og et påfølgende ekstraordinært årsmøte minst 3 måneder senere men innen førstkommende ordinære årsmøte, hvor oppløsning er eneste sak som skal behandles. Ved oppløsning bestemmer årsmøtet fordelingen av Spillmakerlauget Sør sine midler.
+
+### § 11
+
+Utmelding fra paraplyorganisasjon krever 2/3 flertall på et ordinært årsmøte og et påfølgende ekstraordinært årsmøte minst 3 måneder senere men innen førstkommende ordinære årsmøte, hvor utmelding er eneste sak som skal behandles. 
+
+### § 12
+
+Saker som handler om nedleggelse av forening, sammenslåing med andre foreninger og utmelding av forening fra paraplyorganisasjonen skal behandles som egne saker, og kan ikke tas opp som benkeforslag.
+Saker som handler om ekskludering av medlemmer må behandles som egne saker, og kan ikke tas opp som benkeforslag. 
