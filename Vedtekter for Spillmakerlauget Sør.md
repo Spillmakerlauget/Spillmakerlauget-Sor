@@ -1,6 +1,6 @@
 # Vedtekter for foreningen Spillmakerlauget Sør
 
-Vedtatt 18. april 2024 og erstatter gamle vedtekter. [Ikke stemt over ennå.]
+Vedtatt 18. april 2024 og erstatter gamle vedtekter.
 
 ## § 1 Foreningens navn
 Foreningens navn er Spillmakerlauget Sør og ble stiftet 1. oktoberber 2013. Engelsk navn er Game Makers Guild of Southern Norway.
